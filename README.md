@@ -9,6 +9,7 @@
 ### 后续内容结构
 
 * [编程基础以及开发环境配置](bian-cheng-ji-chu-yi-ji-kai-fa-huan-jing-pei-zhi.md)
-* 深度学习基础以及常用框架
+* 深度学习基础
+* Pytorch简介
 * 肺结节检测实战
 
